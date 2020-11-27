@@ -14,7 +14,7 @@
   ~ limitations under the License.
   -->
 <resources>
-    <string name="app_name">LiveData sample</string>
+    <string name="app_name">Teste Commitao</string>
     <string name="label1">Time generated from liveData builder:</string>
     <string name="label2">Result of the transformation:</string>
     <string name="label3">emit + emitSource pattern</string>
